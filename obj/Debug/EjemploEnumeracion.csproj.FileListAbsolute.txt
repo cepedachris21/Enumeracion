@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\EjemploEnumeracion\EjemploEnumeracion\obj\Debug\EjemploEnumeracion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjemploEnumeracion\EjemploEnumeracion\obj\Debug\EjemploEnumeracion.Form1.resources
+C:\Users\Usuario\source\repos\EjemploEnumeracion\EjemploEnumeracion\obj\Debug\EjemploEnumeracion.Properties.Resources.resources
+C:\Users\Usuario\source\repos\EjemploEnumeracion\EjemploEnumeracion\obj\Debug\EjemploEnumeracion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\EjemploEnumeracion\EjemploEnumeracion\obj\Debug\EjemploEnumeracion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjemploEnumeracion\EjemploEnumeracion\bin\Debug\EjemploEnumeracion.exe.config
+C:\Users\Usuario\source\repos\EjemploEnumeracion\EjemploEnumeracion\bin\Debug\EjemploEnumeracion.exe
+C:\Users\Usuario\source\repos\EjemploEnumeracion\EjemploEnumeracion\bin\Debug\EjemploEnumeracion.pdb
+C:\Users\Usuario\source\repos\EjemploEnumeracion\EjemploEnumeracion\obj\Debug\EjemploEnumeracion.exe
+C:\Users\Usuario\source\repos\EjemploEnumeracion\EjemploEnumeracion\obj\Debug\EjemploEnumeracion.pdb
